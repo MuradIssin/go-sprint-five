@@ -188,7 +188,7 @@ func ReadData(training CaloriesCalculator) string {
 
 	return fmt.Sprint(info)
 }
-
+// del
 func main() {
 
 	swimming := Swimming{
